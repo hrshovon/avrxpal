@@ -1,0 +1,202 @@
+<programmers><dev type="arduino">
+<name>Arduino Uno</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>115200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Duemilanove w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Diecimila or Duemilanove w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Nano w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Nano w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Mega 2560 or Mega ADK</name>
+<mcu>atmega2560</mcu>
+<interface>serial</interface>
+<protocol>wiring</protocol>
+<speed>115200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Mega (ATmega1280)</name>
+<mcu>atmega1280</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Leonardo</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Esplora</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Micro</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Mini w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>115200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Mini w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Ethernet</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>115200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Fio</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino BT w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino BT w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>LilyPad Arduino USB</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>LilyPad Arduino w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>LilyPad Arduino w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Pro or Pro Mini (5V, 16 MHz) w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Pro or Pro Mini (5V, 16 MHz) w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Pro or Pro Mini (3.3V, 8 MHz) w/ ATmega328</name>
+<mcu>atmega328p</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Pro or Pro Mini (3.3V, 8 MHz) w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino NG or older w/ ATmega168</name>
+<mcu>atmega168</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino NG or older w/ ATmega8</name>
+<mcu>atmega8</mcu>
+<interface>serial</interface>
+<protocol>arduino</protocol>
+<speed>19200</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Robot Control</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="arduino">
+<name>Arduino Robot Motor</name>
+<mcu>atmega32u4</mcu>
+<interface>serial</interface>
+<protocol>avr109</protocol>
+<speed>57600</speed>
+</dev>
+<dev type="prog">
+	<name>USBasp</name>
+	<interface>usb</interface>
+	<protocol>usbasp</protocol>
+</dev>
+<dev type="prog">
+	<name>AVRisp/ArduinoISP</name>
+	<interface>serial</interface>
+	<protocol>avrisp</protocol>
+	<speed>19200</speed>
+</dev>
+
+</programmers>
